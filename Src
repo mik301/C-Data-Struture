@@ -1,4 +1,4 @@
-<
+<c++>
 #include <fstream>
 #include <iostream>
 #include <stack>
@@ -203,4 +203,4 @@ int main()
     cout << endl;;
   }
 }
->
+
